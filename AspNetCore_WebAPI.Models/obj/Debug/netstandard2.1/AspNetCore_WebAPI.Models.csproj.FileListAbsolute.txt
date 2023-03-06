@@ -1,0 +1,10 @@
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\obj\Debug\netstandard2.1\AspNetCore_WebAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\obj\Debug\netstandard2.1\AspNetCore_WebAPI.Models.AssemblyInfoInputs.cache
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\obj\Debug\netstandard2.1\AspNetCore_WebAPI.Models.AssemblyInfo.cs
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\obj\Debug\netstandard2.1\AspNetCore_WebAPI.Models.csproj.CoreCompileInputs.cache
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\bin\Debug\netstandard2.1\AspNetCore_WebAPI.Models.deps.json
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\bin\Debug\netstandard2.1\AspNetCore_WebAPI.Models.dll
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\bin\Debug\netstandard2.1\AspNetCore_WebAPI.Models.pdb
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\obj\Debug\netstandard2.1\AspNetCore_WebAPI.Models.dll
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\obj\Debug\netstandard2.1\AspNetCore_WebAPI.Models.pdb
+E:\Sneha\Projects\AspNetCore_Angular\AspNetCore_WebAPI.Models\obj\Debug\netstandard2.1\AspNetCore_WebAPI.Models.csproj.AssemblyReference.cache
